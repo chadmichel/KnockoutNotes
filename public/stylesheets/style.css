@@ -1,0 +1,12 @@
+#noteTitle {
+    width: 650px;
+}
+
+#noteBody {
+    width: 650px;
+    height: 400px;
+}
+
+#main-container {
+    margin-top: 50px;   
+}
